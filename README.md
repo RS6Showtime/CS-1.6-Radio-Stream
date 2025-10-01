@@ -11,7 +11,7 @@ Other versions won't work and will require searching for the offsets to specific
 
 This project only supports the 32-bit version, because this is also the compilation architecture of the game.
 
-# Commands
+# Commands (In-game console)
 
 ```
 radio -> Show you available commands (like vol/play/stop)
