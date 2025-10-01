@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\CS 1.6 Steam\\RadioBass\\CS-1.6-Radio-Stream\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{982BC856-259D-469E-BFEB-AE8E0EF75591}|RadioBass-Loader\\RadioBass-Loader.vcxproj|C:\\CS 1.6 Steam\\RadioBass\\CS-1.6-Radio-Stream\\RadioBass-Loader\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{982BC856-259D-469E-BFEB-AE8E0EF75591}|RadioBass-Loader\\RadioBass-Loader.vcxproj|solutionrelative:RadioBass-Loader\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DF647CC-9677-42BB-8C7E-074D46BAAF18}|RadioBass.vcxproj|C:\\CS 1.6 Steam\\RadioBass\\CS-1.6-Radio-Stream\\dllmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3DF647CC-9677-42BB-8C7E-074D46BAAF18}|RadioBass.vcxproj|solutionrelative:dllmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\CS 1.6 Steam\\RadioBass\\CS-1.6-Radio-Stream\\RadioBass-Loader\\dllmain.cpp",
+              "RelativeDocumentMoniker": "RadioBass-Loader\\dllmain.cpp",
+              "ToolTip": "C:\\CS 1.6 Steam\\RadioBass\\CS-1.6-Radio-Stream\\RadioBass-Loader\\dllmain.cpp",
+              "RelativeToolTip": "RadioBass-Loader\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-01T03:06:02.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "dllmain.c",
               "DocumentMoniker": "C:\\CS 1.6 Steam\\RadioBass\\CS-1.6-Radio-Stream\\dllmain.c",
               "RelativeDocumentMoniker": "dllmain.c",
