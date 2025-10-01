@@ -44,3 +44,7 @@ C/C++, Delphi, and Visual Basic APIs are provided, with several examples to get 
 BASS is also available for the UWP platform, and ARM64 Windows.
 
 https://www.un4seen.com/
+
+# Showcase
+
+https://youtu.be/ZNBjiIF5q_I
