@@ -1,3 +1,9 @@
+# Attention
+
+Be aware, this can lead to a VAC Ban, but this has never happened yet.
+
+# Introduction
+
 A Counter-Strike Mod that allows you to listen to Online Radio stations (also known as radio streams).
 
 Because the project was originally made for the latest version of this game:
